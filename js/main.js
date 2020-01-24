@@ -13,7 +13,7 @@
  * @todo prevent animationend bubling
  * @todo itemsScaleUp
  * @todo Test Zepto
- * @todo stagePadding calculate wrong active classes
+ * @todo stagePadding calculate wrong active classess
  */
 ;(function($, window, document, undefined) {
 
